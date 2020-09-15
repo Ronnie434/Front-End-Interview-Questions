@@ -9,5 +9,7 @@ div is a block element
 Divs should be used to wrap sections of a document, while spans should be used to wrap small portions of text, images, etc.
 Bonus point, it is illegal to place a block-level element within an inline element.
 
+```jsx
 Example:
-<div>Hi<span>I'm the start of the span element <div>I'm illegal</div> I'm the end of the span</span> Bye I'm the end of the div</div>
+ <div>Hi<span>I'm the start of the span element <div>I'm illegal</div> I'm the end of the span</span> Bye I'm the end of the div</div>
+```
