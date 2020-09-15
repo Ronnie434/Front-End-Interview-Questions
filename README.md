@@ -101,7 +101,7 @@ One other difference is that PUT should be idempotent — multiple PUTs of the s
 ### 14) What are the falsy values in JavaScript?
 * **Falsy** values are values that when converted to boolean becomes false.
 ```
-Any of the below:
+**Any of the below:**
 '' 
 0 
 null
